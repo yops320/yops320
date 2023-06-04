@@ -1,4 +1,10 @@
-### Hi there 👋
+I'm Liam, a web developer reisiding in Adelaide, Australia.
+
+Using Javascript, HTML, CSS & Python, I enjoy creating web applications. 
+I believe in continuously learning & improving one's skills.
+
+Although I am at the start of my coding journey, I envision a long, succesful road ahead.
+
 
 
 
