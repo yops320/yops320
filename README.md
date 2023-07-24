@@ -1,4 +1,5 @@
-I'm Liam, a web developer reisiding in Adelaide, Australia.
+<!--
+**I'm Liam, a web developer reisiding in Adelaide, Australia.
 
 Using Javascript, HTML, CSS & Python, I enjoy creating web applications. 
 I believe in continuously learning & improving one's skills.
@@ -7,7 +8,8 @@ Although I am at the start of my coding journey, I envision a long, succesful ro
 
 
 
-
+<!--
+**
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yops320&layout=compact&theme=theme)
 
 <!--
